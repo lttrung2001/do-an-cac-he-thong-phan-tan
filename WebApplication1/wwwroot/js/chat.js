@@ -1,18 +1,53 @@
 ﻿"use strict";
 
 var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+let historyChat = []
 
 const toNodes = html =>
     new DOMParser().parseFromString(html, 'text/html').body.childNodes[0]
 
 var userElement = (id, name) => {
-    return `<li id="${id}" class="clearfix">
-                            <img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="avatar">
+    let randomId = Math.floor(Math.random() * 8 + 1);
+    return `<li id="${id} - ${randomId}" class="clearfix" onclick="handleClick(this.id)">
+                            <img class="img" src="https://bootdey.com/img/Content/avatar/avatar${randomId}.png" alt="avatar">
                             <div class="about">
                                 <div class="name">${name}</div>
                                 <div class="status"> <i class="fa fa-circle online"></i> online </div>
                             </div>
                         </li>`
+}
+
+var handleClick = (id) => {
+    var myUser = document.getElementById("userInput").value;
+
+    var ulHistoryChat = document.getElementById('chat-history-container');
+    let user = document.getElementById(`${id}`).querySelector('.name').textContent;
+    let status = document.getElementById(`${id}`).querySelector('.status').textContent;
+    let image = document.getElementById(`${id}`).querySelector('.img').src;
+    let chatAbout = document.querySelector('.chat-header').querySelector('.chat-about');
+    let oldh6 = document.querySelector('.chat-header').querySelector('h6')
+    oldh6.remove()
+    let oldsmall = document.querySelector('.chat-header').querySelector('small')
+    oldsmall.remove()
+    let oldimg = document.querySelector('.chat-header').querySelector('img')
+    oldimg.remove()
+    let newh6 = document.createElement('h6');
+    newh6.textContent = user;
+    newh6.classList.add('m-b-0')
+    let newsmall = document.createElement('small');
+    newsmall.textContent = status;
+    let newimg = document.createElement('img');
+    newimg.src = image
+    chatAbout.appendChild(newh6)
+    chatAbout.appendChild(newsmall)
+    chatAbout.appendChild(newimg)
+
+    let activeElement = document.querySelector('.active');
+    activeElement.classList.remove('active');
+
+    let newActiveElement = document.getElementById(`${id}`)
+    newActiveElement.classList.add('active')
+
 }
 
 var myMessage = (message) => {
@@ -115,3 +150,11 @@ document.getElementById("sendPrivateButton").addEventListener("click", function 
     });
     event.preventDefault();
 });
+
+
+let groupElement = document.querySelector('#user-list').querySelector('li');
+groupElement.addEventListener('click', e => {
+    let activeElement = document.querySelector('.active');
+    activeElement.classList.remove('active');
+    groupElement.classList.add('active')
+})
