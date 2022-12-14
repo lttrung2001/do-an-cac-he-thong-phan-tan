@@ -18,29 +18,12 @@ var userElement = (id, name) => {
 }
 
 var handleClick = (id) => {
-    var myUser = document.getElementById("userInput").value;
-
-    var ulHistoryChat = document.getElementById('chat-history-container');
-    let user = document.getElementById(`${id}`).querySelector('.name').textContent;
-    let status = document.getElementById(`${id}`).querySelector('.status').textContent;
-    let image = document.getElementById(`${id}`).querySelector('.img').src;
-    let chatAbout = document.querySelector('.chat-header').querySelector('.chat-about');
-    let oldh6 = document.querySelector('.chat-header').querySelector('h6')
-    oldh6.remove()
-    let oldsmall = document.querySelector('.chat-header').querySelector('small')
-    oldsmall.remove()
-    let oldimg = document.querySelector('.chat-header').querySelector('img')
-    oldimg.remove()
-    let newh6 = document.createElement('h6');
-    newh6.textContent = user;
-    newh6.classList.add('m-b-0')
-    let newsmall = document.createElement('small');
-    newsmall.textContent = status;
-    let newimg = document.createElement('img');
-    newimg.src = image
-    chatAbout.appendChild(newh6)
-    chatAbout.appendChild(newsmall)
-    chatAbout.appendChild(newimg)
+    var h6Element = document.querySelector('.chat-about h6');
+    var imgElement = document.querySelector('.chat-header img');
+    var statusElement = document.querySelector('.chat-header small');
+    h6Element.innerHTML = document.getElementById(id).querySelector('.name').innerHTML;
+    imgElement.src = document.getElementById(id).querySelector('img').src;
+    statusElement.innerHTML = document.getElementById(id).querySelector('.status').textContent;
 
     let activeElement = document.querySelector('.active');
     activeElement.classList.remove('active');
