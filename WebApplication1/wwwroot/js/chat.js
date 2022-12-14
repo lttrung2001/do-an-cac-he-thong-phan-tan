@@ -8,7 +8,7 @@ const toNodes = html =>
 
 var userElement = (id, name) => {
     let randomId = Math.floor(Math.random() * 8 + 1);
-    return `<li id="${id} - ${randomId}" class="clearfix" onclick="handleClick(this.id)">
+    return `<li id="${id}" class="user-item clearfix" onclick="handleClick(this.id)">
                             <img class="img" src="https://bootdey.com/img/Content/avatar/avatar${randomId}.png" alt="avatar">
                             <div class="about">
                                 <div class="name">${name}</div>
@@ -48,6 +48,7 @@ var handleClick = (id) => {
     let newActiveElement = document.getElementById(`${id}`)
     newActiveElement.classList.add('active')
 
+    document.getElementById('chat-history-container').innerHTML = ""
 }
 
 var myMessage = (message) => {
@@ -56,29 +57,60 @@ var myMessage = (message) => {
                             </li>`
 }
 
-var otherMessage = (user, message) => {
+var otherMessage = (message) => {
     return `<li class="clearfix">
-                                <div class="message-data">
-                                    <span class="message-data-time">${user}</span>
-                                </div>
                                 <div class="message my-message">${message}</div>
                             </li>`
+}
+
+var chatHistory = (id, username) => {
+    return `<div class="chat-${id}">
+                    <div class="chat-header clearfix">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <a href="javascript:void(0);" data-toggle="modal" data-target="#view_info">
+                                    <img src="${image}" alt="avatar">
+                                </a>
+                                <div class="chat-about">
+                                    <h6 class="m-b-0">${username}</h6>
+                                    <small>Online</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chat-history-${id}">
+                        <ul id="chat-history-container-${id}" class="m-b-0">
+                        </ul>
+                    </div>
+                    <div class="chat-message clearfix">
+                        <div class="input-group mb-0">
+                            <div class="input-group-prepend">
+                                <span id="sendButton" class="input-group-text"><i class="fa fa-send"></i></span>
+                            </div>
+                            <input id="messageInput" type="text" class="form-control" placeholder="Enter text here...">
+                        </div>
+                    </div>
+                </div>`
 }
 
 //Disable the send button until connection is established.
 document.getElementById("sendButton").disabled = true;
 document.getElementById("btnLeave").disabled = true;
 
-connection.on("ReceiveMessage", function (user, message) {
-    var li = document.createElement("li");
-    document.getElementById("messagesList").appendChild(li);
-    li.textContent = `${user} says ${message}`;
+connection.on("ReceiveMessage", function (senderId, senderName, message, receiverId) {
+    console.log(senderId, senderName, message, receiverId)
     var myUser = document.getElementById("userInput").value;
     var ul = document.getElementById('chat-history-container');
-    if (user === myUser) {
+    if (receiverId === 'group' && document.getElementById('group').classList.contains("active")) {
+        if (senderName === myUser) {
+            ul.append(toNodes(myMessage(message)));
+        } else {
+            ul.append(toNodes(otherMessage(message)));
+        }
+    } else if (senderName === myUser && document.getElementById(receiverId).classList.contains("active")) {
         ul.append(toNodes(myMessage(message)));
-    } else {
-        ul.append(toNodes(otherMessage(user, message)));
+    } else if (senderName !== myUser && document.getElementById(senderId).classList.contains("active")) {
+        ul.append(toNodes(otherMessage(message)));
     }
 });
 
@@ -89,10 +121,11 @@ document.getElementById("btnJoin").addEventListener("click", function (event) {
         connection.invoke("Join", user);
             connection.on('GetOnlines', (args) => {
                 console.log(args);
-            var userList = document.getElementById('user-list');
-            for (var i = 0; i < args.length; i++) {
-                userList.append(toNodes(userElement(args[i].id, args[i].name)));
-            }
+                const userList = document.getElementById('user-list');
+                for (var i = 0; i < args.length; i++) {
+                    userList.append(toNodes(userElement(args[i].id, args[i].name)));
+                    //chatApp.append(toNodes(chatHistory(args[i].id, args[i].name)));
+                }
         });
         }).catch(function (err) {
             return console.error(err.toString());
@@ -109,6 +142,10 @@ document.getElementById("btnLeave").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
     connection.invoke("Leave", user).then(function () {
         connection.stop();
+        const ls = document.querySelectorAll('.user-item');
+        for (var i = 0; i < ls.length; i++) {
+            ls[i].remove();
+        }
     }).catch(function (err) {
         return console.error(err.toString());
     });
@@ -127,25 +164,13 @@ connection.on('Leave', function (id, user) {
     document.getElementById(id).remove();
 })
 
-connection.on("PrivateMessage", function (user, message) {
-    alert(`${user} says ${message}.`);
-})
-
 document.getElementById("sendButton").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
     var message = document.getElementById("messageInput").value;
-    document.getElementById("messageInput").value = "";
-    connection.invoke("SendMessage", user, message).catch(function (err) {
-        return console.error(err.toString());
-    });
-    event.preventDefault();
-});
-
-document.getElementById("sendPrivateButton").addEventListener("click", function (event) {
-    var user = document.getElementById("userInput").value;
-    var receiver = document.getElementById("receiver").value;
-    var message = document.getElementById("messagePrivateInput").value;
-    connection.invoke("SendPrivateMessage", user, message, receiver).catch(function (err) {
+    var receiver = document.querySelector('#user-list > li.active').id;
+    connection.invoke("SendMessage", message, receiver).then(() => {
+        document.getElementById("messageInput").value = "";
+    }).catch(function (err) {
         return console.error(err.toString());
     });
     event.preventDefault();
