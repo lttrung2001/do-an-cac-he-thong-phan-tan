@@ -16,7 +16,7 @@ namespace WebApplication1.Hubs
             string id = Context.ConnectionId;
             foreach (var user in User.Users)
             {
-                if (user.Id == id)
+                if (user.Id.Equals(id))
                 {
                     User.Users.Remove(user);
                     break;
@@ -30,7 +30,7 @@ namespace WebApplication1.Hubs
             string id = Context.ConnectionId;
             foreach (var user in User.Users)
             {
-                if (user.Id == id)
+                if (user.Id.Equals(id))
                 {
                     User.Users.Remove(user);
                     break;
@@ -40,28 +40,31 @@ namespace WebApplication1.Hubs
             return base.OnDisconnectedAsync(new Exception());
         }
 
-        public async Task SendMessage(string user, string message)
-        {
-            await Clients.All.SendAsync("ReceiveMessage", user, message);
-        }
-
-        public async Task SendPrivateMessage(string user, string message, string receiverUser)
+        public async Task SendMessage(string message, string receiverId)
         {
             foreach (var u in User.Users)
             {
-                if (u.Name.ToLower() == receiverUser.ToLower())
+                if (u.Id.Equals(Context.ConnectionId))
                 {
-                    await Clients.Client(u.Id).SendAsync("PrivateMessage", user, message);
+                    if (receiverId.Equals("group"))
+                    {
+                        await Clients.All.SendAsync("ReceiveMessage", u.Id, u.Name, message, receiverId);
+                    }
+                    else
+                    {
+                        await Clients.Client(receiverId).SendAsync("ReceiveMessage", u.Id, u.Name, message, receiverId);
+                        await Clients.Client(u.Id).SendAsync("ReceiveMessage", u.Id, u.Name, message, receiverId);
+                    }
                     break;
                 }
             }
         }
-    }
-    class User
-    {
-        public string Id { get; set; }
-        public string Name { get; set; }
+        class User
+        {
+            public string Id { get; set; }
+            public string Name { get; set; }
 
-        public static List<User> Users = new List<User>();
+            public static List<User> Users = new List<User>();
+        }
     }
 }

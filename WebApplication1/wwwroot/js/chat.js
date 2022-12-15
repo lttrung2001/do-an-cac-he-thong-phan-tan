@@ -81,7 +81,6 @@ document.getElementById("sendButton").disabled = true;
 document.getElementById("btnLeave").disabled = true;
 
 connection.on("ReceiveMessage", function (senderId, senderName, message, receiverId) {
-    console.log(senderId, senderName, message, receiverId)
     var myUser = document.getElementById("userInput").value;
     var ul = document.getElementById('chat-history-container');
     if (receiverId === 'group' && document.getElementById('group').classList.contains("active")) {
@@ -103,7 +102,6 @@ document.getElementById("btnJoin").addEventListener("click", function (event) {
         connection.start().then(function () {
         connection.invoke("Join", user);
             connection.on('GetOnlines', (args) => {
-                console.log(args);
                 const userList = document.getElementById('user-list');
                 for (var i = 0; i < args.length; i++) {
                     userList.append(toNodes(userElement(args[i].id, args[i].name)));
@@ -150,8 +148,8 @@ connection.on('Leave', function (id, user) {
 document.getElementById("sendButton").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
     var message = document.getElementById("messageInput").value;
-    var receiver = document.querySelector('#user-list > li.active').id;
-    connection.invoke("SendMessage", message, receiver).then(() => {
+    var receiverId = document.querySelector('#user-list > li.active').id;
+    connection.invoke("SendMessage", message, receiverId).then(() => {
         document.getElementById("messageInput").value = "";
     }).catch(function (err) {
         return console.error(err.toString());
