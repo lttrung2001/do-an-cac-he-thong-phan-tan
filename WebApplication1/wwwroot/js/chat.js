@@ -1,6 +1,7 @@
 ﻿"use strict";
 
 var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+connection.start();
 let historyChat = []
 
 const toNodes = html =>
@@ -40,8 +41,9 @@ var myMessage = (message) => {
                             </li>`
 }
 
-var otherMessage = (message) => {
+var otherMessage = (username, message) => {
     return `<li class="clearfix">
+                                <div class="message-data text-right"> <span class="message-data-time">${username}</span></div>
                                 <div class="message my-message">${message}</div>
                             </li>`
 }
@@ -80,41 +82,57 @@ var chatHistory = (id, username) => {
 document.getElementById("sendButton").disabled = true;
 document.getElementById("btnLeave").disabled = true;
 
-connection.on("ReceiveMessage", function (senderId, senderName, message, receiverId) {
-    var myUser = document.getElementById("userInput").value;
-    var ul = document.getElementById('chat-history-container');
-    if (receiverId === 'group' && document.getElementById('group').classList.contains("active")) {
-        if (senderName === myUser) {
-            ul.append(toNodes(myMessage(message)));
-        } else {
-            ul.append(toNodes(otherMessage(message)));
-        }
-    } else if (senderName === myUser && document.getElementById(receiverId).classList.contains("active")) {
-        ul.append(toNodes(myMessage(message)));
-    } else if (senderName !== myUser && document.getElementById(senderId).classList.contains("active")) {
-        ul.append(toNodes(otherMessage(message)));
-    }
-});
-
 document.getElementById("btnJoin").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
-    if (user != null && user != '') {
-        connection.start().then(function () {
-        connection.invoke("Join", user);
-            connection.on('GetOnlines', (args) => {
-                const userList = document.getElementById('user-list');
-                for (var i = 0; i < args.length; i++) {
-                    userList.append(toNodes(userElement(args[i].id, args[i].name)));
-                    //chatApp.append(toNodes(chatHistory(args[i].id, args[i].name)));
+    var password = document.getElementById("passwordInput").value;
+    if (user != null && user != '' && password != null && password != '') {
+            connection.invoke("Join", user, password).then(function (isCorrect) {
+                if (isCorrect) {
+                    connection.invoke("GetOnlines", user).then((result) => {
+                        const args = JSON.parse(result);
+                        console.log(args);
+                        const userList = document.getElementById('user-list');
+                        for (var i = 0; i < args.length; i++) {
+                            userList.append(toNodes(userElement(args[i].Id.trim(), args[i].Name)));
+                        }
+                    })
+                    
+                    connection.on("ReceiveMessage", function (senderId, senderName, message, receiverId) {
+                        var myUser = document.getElementById("userInput").value;
+                        var ul = document.getElementById('chat-history-container');
+                        senderName = senderName.trim();
+                        if (receiverId === 'group' && document.getElementById('group').classList.contains("active")) {
+                            if (senderName === myUser) {
+                                ul.append(toNodes(myMessage(message)));
+                            } else {
+                                ul.append(toNodes(otherMessage(senderName, message)));
+                            }
+                        } else if (senderName === myUser && document.getElementById(receiverId).classList.contains("active")) {
+                            ul.append(toNodes(myMessage(message)));
+                        } else if (senderName !== myUser && document.getElementById(senderId).classList.contains("active")) {
+                            ul.append(toNodes(otherMessage(senderName, message)));
+                        }
+                    });
+
+                    connection.on('Join', function (id, user) {
+                        if (document.getElementById(id.trim()) == null) {
+                            document.getElementById('user-list').append(toNodes(userElement(id, user)));
+                        }
+                    })
+
+                    connection.on('Leave', function (id) {
+                        document.getElementById(id).remove();
+                    })
+
+                    document.getElementById("sendButton").disabled = false;
+                    document.getElementById("btnLeave").disabled = false;
+                    document.getElementById("userInput").disabled = true;
+                    document.getElementById("btnJoin").disabled = true;
+                    document.getElementById("passwordInput").disabled = true;
                 }
-        });
-        }).catch(function (err) {
-            return console.error(err.toString());
-        });
-        document.getElementById("sendButton").disabled = false;
-        document.getElementById("btnLeave").disabled = false;
-        document.getElementById("userInput").disabled = true;
-        document.getElementById("btnJoin").disabled = true;
+            }).catch(function (err) {
+                return console.error(err.toString());
+            });
     }
     event.preventDefault();
 });
@@ -122,7 +140,10 @@ document.getElementById("btnJoin").addEventListener("click", function (event) {
 document.getElementById("btnLeave").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
     connection.invoke("Leave", user).then(function () {
-        connection.stop();
+        connection.off("GetOnlines");
+        connection.off("ReceiveMessage");
+        connection.off("Join");
+        connection.off("Leave");
         const ls = document.querySelectorAll('.user-item');
         for (var i = 0; i < ls.length; i++) {
             ls[i].remove();
@@ -134,16 +155,9 @@ document.getElementById("btnLeave").addEventListener("click", function (event) {
     document.getElementById("btnLeave").disabled = true;
     document.getElementById("userInput").disabled = false;
     document.getElementById("btnJoin").disabled = false;
+    document.getElementById("passwordInput").disabled = false;
     event.preventDefault();
 });
-
-connection.on('Join', function (id, user) {
-    document.getElementById('user-list').append(toNodes(userElement(id, user)));
-})
-
-connection.on('Leave', function (id, user) {
-    document.getElementById(id).remove();
-})
 
 document.getElementById("sendButton").addEventListener("click", function (event) {
     var user = document.getElementById("userInput").value;
