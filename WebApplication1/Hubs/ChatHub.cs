@@ -1,18 +1,17 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 using Microsoft.Data.SqlClient;
-using System.Reflection.PortableExecutable;
 using System.Text.Json;
-
 namespace WebApplication1.Hubs
 {
     public class ChatHub : Hub
     {
-        private string connectionString = @"Data Source=DESKTOP-4UNL892;Initial Catalog=CHTPT;User ID=sa;Password=tt;Encrypt=False;TrustServerCertificate=False";
+        //private string connectionString = @"Data Source=DESKTOP-4UNL892;Initial Catalog=CHTPT;User ID=sa;Password=tt;Encrypt=False;TrustServerCertificate=False";
+        private string connectionString = @"Server=192.168.0.254;Database=CHTPT;User ID=sa;Password=tt;Encrypt=False;TrustServerCertificate=False";
         public Boolean Join(string username, string password)
         {
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();
-            SqlCommand cmd = new SqlCommand(String.Format("SELECT COUNT(*) FROM USERINFO WHERE username='{0}' AND password='{1}'",username, password), connection);
+            SqlCommand cmd = new SqlCommand(String.Format("SELECT COUNT(*) FROM USERINFO WHERE username='{0}' AND password='{1}'", username, password), connection);
             SqlDataReader reader = cmd.ExecuteReader();
             reader.Read();
             bool isCorrect = reader.GetInt32(0) > 0;
@@ -26,7 +25,8 @@ namespace WebApplication1.Hubs
                 //Clients.Client(id).SendAsync("GetOnlines", users);
                 Clients.AllExcept(id).SendAsync("Join", id, username);
                 return true;
-            } else
+            }
+            else
             {
                 return false;
             }
