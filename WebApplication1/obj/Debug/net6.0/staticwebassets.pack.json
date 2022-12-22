@@ -261,6 +261,2166 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\test\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\test\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\test\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\test\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\test\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\test\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\WebApplication1.deps.json",
+      "PackagePath": "staticwebassets\\test\\WebApplication1.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\WebApplication1.dll",
+      "PackagePath": "staticwebassets\\test\\WebApplication1.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\WebApplication1.exe",
+      "PackagePath": "staticwebassets\\test\\WebApplication1.exe"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\WebApplication1.pdb",
+      "PackagePath": "staticwebassets\\test\\WebApplication1.pdb"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\WebApplication1.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\test\\WebApplication1.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\test\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\appsettings.json",
+      "PackagePath": "staticwebassets\\test\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\libman.json",
+      "PackagePath": "staticwebassets\\test\\libman.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\web.config",
+      "PackagePath": "staticwebassets\\test\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\WebApplication1.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\WebApplication1.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\WebApplication1.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\WebApplication1.exe"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\WebApplication1.pdb"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\appsettings.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\libman.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\libman.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\web.config",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\libman.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\libman.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\web.config",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\libman.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\libman.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\web.config",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.exe"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.pdb"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\WebApplication1.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\libman.json",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\libman.json"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\web.config",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\WebApplication1.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

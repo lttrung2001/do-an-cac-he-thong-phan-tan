@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\4thYearStudent\\Term1\\Các Hệ Thống Phân Tán\\do-an-cac-he-thong-phan-tan\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\4thYearStudent\\Term1\\Các Hệ Thống Phân Tán\\do-an-cac-he-thong-phan-tan\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4thYearStudent\\Term1\\Các Hệ Thống Phân Tán\\do-an-cac-he-thong-phan-tan\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\4thYearStudent\\Term1\\Các Hệ Thống Phân Tán\\do-an-cac-he-thong-phan-tan\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\Ngoc Duc\\.nuget\\packages\\",
-        "outputPath": "D:\\4thYearStudent\\Term1\\Các Hệ Thống Phân Tán\\do-an-cac-he-thong-phan-tan\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\THANHTRUNG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\THANHTRUNG\\OneDrive - student.ptithcm.edu.vn\\Desktop\\repos\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ngoc Duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\THANHTRUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,13 +44,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
